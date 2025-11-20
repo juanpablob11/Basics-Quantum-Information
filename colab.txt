@@ -1,0 +1,1 @@
+!pip install -r "https://raw.githubusercontent.com/juanpablob11/Basics-Quantum-Information/refs/heads/main/requirements_windows.txt"
